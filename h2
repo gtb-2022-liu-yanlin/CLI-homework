@@ -9,6 +9,3 @@ then
 fi
 
 echo "[$TS] hello $NAME"
-
-
-
